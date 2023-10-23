@@ -30,8 +30,9 @@ import { Navbar } from "./component/NavBar";
 export default function MyApp(){
   return(
     <div>
-      <Header />
       <Navbar />
+      <Header />
+      
     </div>
   )
 }

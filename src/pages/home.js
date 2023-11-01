@@ -23,15 +23,20 @@
 // }
 
 // export default App;
-
-import Header from "./component/Header";
-import { Navbar } from "./component/NavBar";
+import { Navbar } from "./NavBar";
+import Header from "./Header";
+import { Hero } from "./hero";
+import { About } from "./about";
+import { Contact } from "./contact";
 
 export default function MyApp(){
   return(
     <div>
       <Navbar />
       <Header />
+      <Hero />
+      <About />
+      <Contact />
       
     </div>
   )

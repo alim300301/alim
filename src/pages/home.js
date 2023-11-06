@@ -28,6 +28,7 @@ import Header from "./Header";
 import { Hero } from "./hero";
 import { About } from "./about";
 import { Contact } from "./contact";
+import { Testi } from "./testimoni";
 
 export default function MyApp(){
   return(
@@ -36,6 +37,7 @@ export default function MyApp(){
       <Header />
       <Hero />
       <About />
+      <Testi/>
       <Contact />
       
     </div>

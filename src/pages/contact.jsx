@@ -5,10 +5,16 @@ export function Contact() {
                 <h2>Kontak Kami</h2>
                 <ul>
                     <li>
+                        <i>+62 812 2345 6789</i>
+                    </li>
+                    <li>
+                        <i >jl. jalanan no.222 blok a</i>
+                    </li>
+                    <li>
                         <i >info@computech.com</i>
                     </li>
                     <li>
-                        <i>+62 812 2345 6789</i>
+                        <i>Website: www.computech.com</i>
                     </li>
                 </ul>
                 <footer>

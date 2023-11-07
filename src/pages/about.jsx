@@ -21,11 +21,6 @@ export function About() {
               <i class="fas fa-server"></i>
             </div>
             <div class="tile">
-              <h3>Pembersihan dan optimasi komputer</h3>
-              <p>Kami dapat membantu Anda membersihkan dan mengoptimalkan komputer Anda agar berjalan lebih lancar.</p>
-              <i class="fas fa-recycle"></i>
-            </div>
-            <div class="tile">
               <h3>Instalasi dan konfigurasi jaringan</h3>
               <p>Kami dapat membantu Anda menginstal dan mengkonfigurasi jaringan komputer .</p>
               <i class="fas fa-ethernet"></i>
